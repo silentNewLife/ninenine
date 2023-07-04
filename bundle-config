@@ -161,5 +161,10 @@
         "SCENE": "scene/XocDia",
         "VERSION": 13
     },
+    "Room" : {
+        "BUNDLE": "Room",
+        "SCENE": "",
+        "VERSION": 13
+    },
     "HotName" : "https://thankhktes.info/side-a"
 }
