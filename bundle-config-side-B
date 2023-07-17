@@ -1,7 +1,7 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": 16
+        "VERSION": 15
     },
     "PLUGINS" : {
         "BUNDLE":"plugins",
@@ -159,11 +159,6 @@
     "XocDia" : {
         "BUNDLE": "XocDia",
         "SCENE": "scene/XocDia",
-        "VERSION": 13
-    },
-    "Room" : {
-        "BUNDLE": "Room",
-        "SCENE": "",
         "VERSION": 13
     },
     "HotName" : "https://thankhktes.info/new-hot-update"
