@@ -1,7 +1,7 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": 19
+        "VERSION": 20
     },
     "PLUGINS" : {
         "BUNDLE":"plugins",
@@ -19,7 +19,7 @@
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": 18
+        "VERSION": 19
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
@@ -34,12 +34,12 @@
     "BauCua" : {
         "BUNDLE":"BauCua",
         "PREFAB":"prefab/BauCua",
-        "VERSION": 14
+        "VERSION": 15
     },
     "CaoThap" : {
         "BUNDLE":"CaoThap",
         "PREFAB":"prefab/CaoThap",
-        "VERSION": 14
+        "VERSION": 15
     },
     "Lieng" : {
         "BUNDLE": "Lieng",
@@ -74,7 +74,7 @@
     "ShootFish" : {
         "BUNDLE": "ShootFish",
         "SCENE": "scene/ShootFish",
-        "VERSION": 15
+        "VERSION": 16
     },
     "Slot1" : {
         "BUNDLE": "Slot1",
@@ -124,7 +124,7 @@
     "Slot3x3" : {
         "BUNDLE": "Slot3x3",
         "PREFAB": "prefab/Slot3x3",
-        "VERSION": 14
+        "VERSION": 15
     }, 
     "Slot5x5" : {
         "BUNDLE": "Slot5x5",
@@ -139,17 +139,17 @@
     "TaiXiuDouble" : {
         "BUNDLE": "TaiXiu",
         "PREFAB": "prefab/TaiXiu",
-        "VERSION": 17
+        "VERSION": 18
     },
     "taixiuMd5" : {
         "BUNDLE": "taixiuMd5",
         "PREFAB": "prefab/TaiXiuMD5",
-        "VERSION": 15
+        "VERSION": 16
     },
     "MiniPoker" : {
         "BUNDLE": "MiniPoker",
         "PREFAB": "prefab/MiniPoker",
-        "VERSION": 15
+        "VERSION": 16
     },
     "XiDach" : {
         "BUNDLE": "XiDach",
