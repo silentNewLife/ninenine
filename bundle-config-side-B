@@ -1,7 +1,7 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": 18
+        "VERSION": 19
     },
     "PLUGINS" : {
         "BUNDLE":"plugins",
@@ -19,7 +19,7 @@
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": 17
+        "VERSION": 18
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
@@ -49,7 +49,7 @@
     "Loto" : {
         "BUNDLE": "Loto",
         "SCENE": "scene/Loto",
-        "VERSION": 14
+        "VERSION": 15
     },
     "MauBinh" : {
         "BUNDLE": "MauBinh",
