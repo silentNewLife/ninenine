@@ -19,7 +19,7 @@
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": 19
+        "VERSION": 20
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
