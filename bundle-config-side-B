@@ -79,7 +79,7 @@
     "Slot1" : {
         "BUNDLE": "Slot1",
         "SCENE": "scene/Slot1",
-        "VERSION": 14
+        "VERSION": 15
     },
     "Slot2" : {
         "BUNDLE": "Slot2",
@@ -114,7 +114,7 @@
     "Slot9" : {
         "BUNDLE": "Slot9",
         "SCENE": "scene/Slot9",
-        "VERSION": 14
+        "VERSION": 15
     },
     "Slot11" : {
         "BUNDLE": "Slot11",
