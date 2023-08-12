@@ -1,7 +1,7 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": 23
+        "VERSION": 24
     },
     "PLUGINS" : {
         "BUNDLE":"plugins",
@@ -19,7 +19,7 @@
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": 22
+        "VERSION": 23
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
@@ -39,7 +39,7 @@
     "CaoThap" : {
         "BUNDLE":"CaoThap",
         "PREFAB":"prefab/CaoThap",
-        "VERSION": 16
+        "VERSION": 17
     },
     "Lieng" : {
         "BUNDLE": "Lieng",
@@ -54,7 +54,7 @@
     "MauBinh" : {
         "BUNDLE": "MauBinh",
         "SCENE": "scene/MauBinh",
-        "VERSION": 15
+        "VERSION": 16
     },
     "OanTuTi": {
         "BUNDLE": "OanTuTi",
@@ -64,7 +64,7 @@
     "Poker": {
         "BUNDLE": "Poker",
         "SCENE": "scene/Poker",
-        "VERSION": 14
+        "VERSION": 15
     },
     "Sam": {
         "BUNDLE": "Sam",
@@ -139,17 +139,17 @@
     "TaiXiuDouble" : {
         "BUNDLE": "TaiXiu",
         "PREFAB": "prefab/TaiXiu",
-        "VERSION": 19
+        "VERSION": 20
     },
     "taixiuMd5" : {
         "BUNDLE": "taixiuMd5",
         "PREFAB": "prefab/TaiXiuMD5",
-        "VERSION": 17
+        "VERSION": 18
     },
     "MiniPoker" : {
         "BUNDLE": "MiniPoker",
         "PREFAB": "prefab/MiniPoker",
-        "VERSION": 17
+        "VERSION": 18
     },
     "XiDach" : {
         "BUNDLE": "XiDach",
