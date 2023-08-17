@@ -1,7 +1,7 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": 27
+        "VERSION": 28
     },
     "PLUGINS" : {
         "BUNDLE":"plugins",
@@ -14,12 +14,12 @@
      "LOADING" : {
         "BUNDLE":"Loading",
         "SCENE": "scene/Loading",
-        "VERSION": 16
+        "VERSION": 17
     },
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": 27
+        "VERSION": 28
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
