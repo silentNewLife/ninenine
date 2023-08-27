@@ -17,9 +17,14 @@
         "VERSION": 17
     },
     "LOBBY" : {
-        "BUNDLE":"Lobby",
+        "BUNDLE":"PopupLobby",
         "SCENE": "scene/Lobby",
         "VERSION": 28
+    },
+    "POPUP_LOBBY" : {
+        "BUNDLE": "PopupLobby",
+        "PREFAB": "prefab/,
+        "VERSION": ""
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
