@@ -21,6 +21,11 @@
         "SCENE": "scene/Lobby",
         "VERSION": ""
     },
+    "POPUP_LOBBY" : {
+        "BUNDLE": "PopupLobby",
+        "PREFAB": "prefab/",
+        "VERSION": ""
+    },
     "BaCay" : {
         "BUNDLE":"BaCay",
         "SCENE": "scene/BaCay",
