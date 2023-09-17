@@ -17,7 +17,7 @@
         "VERSION": 22
     },
     "LOBBY" : {
-        "BUNDLE":"PopupLobby",
+        "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
         "VERSION": 30
     },
