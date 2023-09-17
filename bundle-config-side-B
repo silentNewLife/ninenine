@@ -1,7 +1,7 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": 33
+        "VERSION": 34
     },
     "PLUGINS" : {
         "BUNDLE":"plugins",
