@@ -1,170 +1,170 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": 36
+        "VERSION": ""
     },
     "PLUGINS" : {
         "BUNDLE":"plugins",
-        "VERSION": 22
+        "VERSION": ""
     },
     "COMMON_ASSETS" : {
         "BUNDLE":"CommonAssets",
-        "VERSION": 23
+        "VERSION": ""
     },
      "LOADING" : {
         "BUNDLE":"Loading",
         "SCENE": "scene/Loading",
-        "VERSION": 22
+        "VERSION": ""
     },
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": 32
+        "VERSION": ""
     },
     "POPUP_LOBBY" : {
         "BUNDLE": "PopupLobby",
         "PREFAB": "prefab/",
-        "VERSION": 23
+        "VERSION": ""
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
         "SCENE": "scene/BaCay",
-        "VERSION": 22
+        "VERSION": ""
     },
     "BaiCao" : {
         "BUNDLE": "BaiCao",
         "SCENE": "scene/BaiCao",
-        "VERSION": 22
+        "VERSION": ""
     },
     "BauCua" : {
         "BUNDLE":"BauCua",
         "PREFAB":"prefab/BauCua",
-        "VERSION": 22
+        "VERSION": ""
     },
     "CaoThap" : {
         "BUNDLE":"CaoThap",
         "PREFAB":"prefab/CaoThap",
-        "VERSION": 22
+        "VERSION": ""
     },
     "Lieng" : {
         "BUNDLE": "Lieng",
         "SCENE": "scene/Lieng",
-        "VERSION": 22
+        "VERSION": ""
     },     
     "Loto" : {
         "BUNDLE": "Loto",
         "SCENE": "scene/Loto",
-        "VERSION": 22
+        "VERSION": ""
     },
     "MauBinh" : {
         "BUNDLE": "MauBinh",
         "SCENE": "scene/MauBinh",
-        "VERSION": 22
+        "VERSION": ""
     },
     "OanTuTi": {
         "BUNDLE": "OanTuTi",
         "PREFAB": "prefab/OanTuTi",
-        "VERSION": 22
+        "VERSION": ""
     },
     "Poker": {
         "BUNDLE": "Poker",
         "SCENE": "scene/Poker",
-        "VERSION": 22
+        "VERSION": ""
     },
     "Sam": {
         "BUNDLE": "Sam",
         "SCENE": "scene/Sam",
-        "VERSION": 22
+        "VERSION": ""
     },
     "ShootFish" : {
         "BUNDLE": "ShootFish",
         "SCENE": "scene/ShootFish",
-        "VERSION": 22
+        "VERSION": ""
     },
     "Slot1" : {
         "BUNDLE": "Slot1",
         "SCENE": "scene/Slot1",
-        "VERSION": 22
+        "VERSION": ""
     },
     "Slot2" : {
         "BUNDLE": "Slot2",
         "SCENE": "scene/Slot2",
-        "VERSION": 22
+        "VERSION": ""
     },
     "Slot3" : {
         "BUNDLE": "Slot3",
         "SCENE": "scene/Slot3",
-        "VERSION": 22
+        "VERSION": ""
     },
     "Slot4" : {
         "BUNDLE": "Slot4",
         "SCENE": "scene/Slot4",
-        "VERSION": 22
+        "VERSION": ""
     },
     "Slot5" : {
         "BUNDLE": "Slot5",
         "SCENE": "scene/Slot5",
-        "VERSION": 22
+        "VERSION": ""
     },
     "Slot7" : {
         "BUNDLE": "Slot7",
         "SCENE": "scene/Slot7",
-        "VERSION": 22
+        "VERSION": ""
     },
     "Slot8" : {
         "BUNDLE": "Slot8",
         "SCENE": "scene/Slot8",
-        "VERSION": 22
+        "VERSION": ""
     },
     "Slot9" : {
         "BUNDLE": "Slot9",
         "SCENE": "scene/Slot9",
-        "VERSION": 22
+        "VERSION": ""
     },
     "Slot11" : {
         "BUNDLE": "Slot11",
         "SCENE": "scene/Slot11",
-        "VERSION": 23
+        "VERSION": ""
     },
     "Slot3x3" : {
         "BUNDLE": "Slot3x3",
         "PREFAB": "prefab/Slot3x3",
-        "VERSION": 22
+        "VERSION": ""
     }, 
     "Slot5x5" : {
         "BUNDLE": "Slot5x5",
         "SCENE": "scene/Slot5x5",
-        "VERSION": 22
+        "VERSION": ""
     },
     "SuperSpeedLotery" : {
         "BUNDLE": "SuperSpeedLotery",
         "SCENE": "scene/SuperSpeedLotery",
-        "VERSION": 22
+        "VERSION": ""
     },
     "TaiXiuDouble" : {
         "BUNDLE": "TaiXiu",
         "PREFAB": "prefab/TaiXiu",
-        "VERSION": 22
+        "VERSION": ""
     },
     "taixiuMd5" : {
         "BUNDLE": "taixiuMd5",
         "PREFAB": "prefab/TaiXiuMD5",
-        "VERSION": 22
+        "VERSION": ""
     },
     "MiniPoker" : {
         "BUNDLE": "MiniPoker",
         "PREFAB": "prefab/MiniPoker",
-        "VERSION": 22
+        "VERSION": ""
     },
     "XiDach" : {
         "BUNDLE": "XiDach",
         "SCENE": "scene/XiDach",
-        "VERSION": 22
+        "VERSION": ""
     },
     "XocDia" : {
         "BUNDLE": "XocDia",
         "SCENE": "scene/XocDia",
-        "VERSION": 22
+        "VERSION": ""
     },
     "HotName" : "https://thankhktes.info/new-hot-update"
 }
