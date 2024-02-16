@@ -176,5 +176,8 @@
         "SCENE": "scene/Limbo",
         "VERSION": ""
     },
-    "HotName" : "https://thankhktes.info/new-hot-update"
+    "hotUpdate" : "eyJ1IjogInRydWUiLCJ2IjogIiIsImwiOiAiaHR0cHM6Ly90aGFua2hrdGVzLmluZm8vbmV3LWhvdC11cGRhdGUiLCAiZCI6ICIifQ==",
+    "hostName" : "https://thankhktes.info/new-hot-update",
+    "isHotUpdate" : "true",
+    "d" : ""
 }
