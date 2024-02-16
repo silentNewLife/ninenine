@@ -166,5 +166,20 @@
         "SCENE": "scene/XocDia",
         "VERSION": ""
     },
+    "aviator" : {
+        "BUNDLE": "aviator",
+        "SCENE": "scene/Aviator",
+        "VERSION": ""
+    },
+    "Dice" : {
+        "BUNDLE": "Dice",
+        "SCENE": "scene/Dice",
+        "VERSION": ""
+    },
+    "Limbo" : {
+        "BUNDLE": "Limbo",
+        "SCENE": "scene/Limbo",
+        "VERSION": ""
+    },
     "HotName" : "https://thankhktes.info/new-hot-update"
 }
