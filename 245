@@ -176,6 +176,11 @@
         "SCENE": "scene/Limbo",
         "VERSION": ""
     },
+     "alpha" : {
+        "BUNDLE": "alpha",
+        "SCENE": "scene/alpha",
+        "VERSION": ""
+    },
     "hotUpdate" : "eyJ1IjogInRydWUiLCJ2IjogIiIsImwiOiAiaHR0cHM6Ly90aGFua2hrdGVzLmluZm8vbmV3LWhvdC11cGRhdGUiLCAiZCI6ICIifQ==",
     "hostName" : "https://thankhktes.info/new-hot-update",
     "isHotUpdate" : "true",
