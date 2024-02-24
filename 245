@@ -1,7 +1,7 @@
 { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": "2"
+        "VERSION": "3"
     },
     "PLUGINS" : {
         "BUNDLE":"plugins",
@@ -14,7 +14,7 @@
      "LOADING" : {
         "BUNDLE":"Loading",
         "SCENE": "scene/Loading",
-        "VERSION": ""
+        "VERSION": "1"
     },
     "LOBBY" : {
         "BUNDLE":"Lobby",
@@ -24,7 +24,7 @@
     "POPUP_LOBBY" : {
         "BUNDLE": "PopupLobby",
         "PREFAB": "prefab/",
-        "VERSION": "5"
+        "VERSION": "6"
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
