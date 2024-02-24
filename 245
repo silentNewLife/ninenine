@@ -24,7 +24,7 @@
     "POPUP_LOBBY" : {
         "BUNDLE": "PopupLobby",
         "PREFAB": "prefab/",
-        "VERSION": "6"
+        "VERSION": "7"
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
